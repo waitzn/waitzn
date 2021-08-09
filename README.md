@@ -1,4 +1,4 @@
-## Hellooo! Eu sou o wait
+## Ah shit, here we go again.
 
  <div>
   <a href="https://github.com/waitzn">
